@@ -52,3 +52,22 @@ You can go look at them if you would like. When you are ready to make changes to
   - Then click the green button called "Create pull request"
   - Head to https://github.com/JustinAnon/OurStruggle/pulls
     - If you see your name, Congratulations! We will look at your request shortly and either accept it into the real repository, or give you feedback on what you need to change.
+    
+## Update your branch
+- If someone besides you makes an update to the main repository, you will need to update your repository to reflect the new changes.
+- To do this, go to your Github page which should look something like https://github.com/[YOURNAME]/OurStruggle/
+- On the right-hand side you should see a button called "New pull request" click that
+- Below the words "Comparing changes" you should see an arrow pointing from your repository to the main one.
+- We want to invert that arrow so that we can get the changes from the main one to yours.
+- To do this, click the blue text labelled "switching the base" which should be near the middle of the page
+  - Notice that the arrow is now pointing to your repository
+- Now, click the green button called "Create pull request"
+- Give the request a title
+- Click "Create pull request"
+- Now on this next page, click "Complete Pull Request"
+- If it accepts without any merge conflicts, open up the Github Desktop application
+- Make sure your repository in the top left is set to "OurStruggle"
+- At the top-middle of the windows you should either see a button that says "Fetch changes" or "Pull origin"
+- Click this button until it says "Last fetched just now" under Fetch origin
+- Congratulations! That's it!
+
