@@ -1,7 +1,7 @@
 # OurStruggle
 So, you want to contribute? Great! We'll help you get started.
 
-##Basic Setup for Windows Users
+## Basic Setup for Windows Users
 Go to https://github.com
   Create an account
     It will ask you for your username, email, and password.
@@ -28,7 +28,7 @@ In Github Desktop (that program you downloaded earlier)
 At this point, you have all the files you need set up in "C:\Users\[YOURNAME]\Documents\GitHub\OurStruggle"
 You can go look at them if you would like. When you are ready to make changes to these files, go to the next section.
 
-##Making Changes
+## Making Changes
 
 In your file explorer
   Go to that directory that you wrote down earlier
